@@ -2,7 +2,7 @@
   "name": "react-website-smbtest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joseph-bostok.github.io/SMB/",
+  "homepage": "https://steffen-ag.github.io/Webtest/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
@@ -30,7 +30,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build -b Website"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
